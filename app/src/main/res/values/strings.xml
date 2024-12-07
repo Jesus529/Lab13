@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab13</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="switch_button">Switch</string>  <!-- Renamed 'switch' to 'switch_button' -->
+    <string name="gallery">Gallery</string>
+    <string name="todo" translatable="false">TODO</string>
+</resources>
